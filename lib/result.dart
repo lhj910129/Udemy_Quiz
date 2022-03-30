@@ -36,7 +36,7 @@ class Result extends StatelessWidget {
           ),
           FlatButton(
             onPressed: resetHandler,
-            child: Text('다시시작하기'),
+            child: Text('다시시작'),
           ),
         ],
       ),
